@@ -6,8 +6,10 @@
 
 #### To Access Data:
 
-https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?resource=download
-
-**OR**
+- Easist Method:
 
 https://drive.google.com/file/d/1JBjoHee2OWTN6_ZntzN4Q2LWNjuzZbiQ/view?usp=sharing
+
+- From Kaggle:
+
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?resource=download
